@@ -11,5 +11,3 @@ Deve ser utilizado de forma mais manual
 
 Documentação:
 https://docs.python.org/3.6/library/getopt.html
-
-Teste do branch
